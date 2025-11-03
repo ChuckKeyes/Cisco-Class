@@ -37,4 +37,4 @@
 	3. Segment 
 	4. **Frame** 
 	5. Packet6. 
-8. [Figure 1-11.png]
+8. Figure 1-11.png
